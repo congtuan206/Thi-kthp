@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Đề tài 5 — Hệ thống Quản lý Kho hàng (Inventory)
 
 Ứng dụng thực hành quản lý sản phẩm, nhà cung cấp, tồn kho và giao dịch nhập/xuất. Stack: PHP + MySQL + phpMyAdmin + Nginx + Prometheus + Grafana + Loki + Promtail, chạy bằng Docker Compose.
@@ -82,3 +83,6 @@ Sau đó tạo repository GitHub và thêm remote theo URL repository của bạ
 
 ## Lưu ý triển khai
 Đây là bộ khung thực hành có thể cần điều chỉnh theo môi trường Docker/OS và phiên bản image. Hãy xác nhận `docker compose config`, kiểm tra logs, targets và datasource trước khi ghi nhận thành công trong báo cáo.
+=======
+# Thi-kthp
+>>>>>>> origin/main
